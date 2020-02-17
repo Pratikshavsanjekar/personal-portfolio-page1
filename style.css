@@ -1,4 +1,6 @@
-/* Add your CSS code here */* {
+/* Add your CSS code here */
+*
+{
     font-family: Helvetica, Arial, sans-serif;
     max-width: 700px;
     margin: auto;
@@ -10,6 +12,7 @@ body {
       background-color: #e0eeee;
   }
   .profilebody {
+    display: inline-block;
   background-color: white;
   margin-top: 6px;
   margin-left: 55px;
